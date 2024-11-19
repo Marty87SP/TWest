@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-policy-template/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/ai-policy-template/","dgPassFrontmatter":true,"created":"2024-11-18T15:04:37.934-07:00","updated":"2024-11-18T15:11:57.555-07:00"}
 ---
 
 TrailWest recognizes the increasing importance of Artificial Intelligence (AI) internally and externally and wants to establish a policy to govern the development, deployment, and use of AI technologies within the company.

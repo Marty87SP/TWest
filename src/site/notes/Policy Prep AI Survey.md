@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/policy-prep-ai-survey/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/policy-prep-ai-survey/","dgPassFrontmatter":true,"created":"2024-11-18T15:01:15.147-07:00","updated":"2024-11-18T15:32:28.048-07:00"}
 ---
-
-
 
 Participants should fill out this questionnaire before the AI policy drafting meeting. Answer each question qualitatively 1-10, where 1 is low/weak and 10 is high/strong. The higher the total score, the stronger the affinity between your business situation and AI and, therefore the higher the perceived importance of this policy.
 
