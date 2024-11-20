@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/chat-bots/project-plan/","dgPassFrontmatter":true,"created":"2024-11-19T16:10:57.352-07:00","updated":"2024-11-19T20:07:45.385-07:00"}
+{"dg-publish":true,"permalink":"/chat-bots/project-plan/","dgPassFrontmatter":true,"created":"2024-11-19T16:10:57.352-07:00","updated":"2024-11-19T20:09:56.586-07:00"}
 ---
 
-## Focus: Internal Policy Bot First, 45 Day Timeline
+## Internal Policy Bot - 45 Day Timeline
 
 ## Beta Release (15 Days)
 ### Scope
