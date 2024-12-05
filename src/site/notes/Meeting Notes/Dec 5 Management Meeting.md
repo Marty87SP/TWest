@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meeting-notes/dec-5-management-meeting/","dgPassFrontmatter":true,"created":"2024-12-02T14:02:03.582-07:00","updated":"2024-12-05T14:35:07.790-07:00"}
+{"dg-publish":true,"permalink":"/meeting-notes/dec-5-management-meeting/","dgPassFrontmatter":true,"created":"2024-12-02T14:02:03.582-07:00","updated":"2024-12-05T15:08:20.490-07:00"}
 ---
 
 *Joined by Rich, Chuck, Dan, and Alan*
@@ -9,6 +9,7 @@
 ![Pasted image 20241205142243.png](/img/user/Images/Pasted%20image%2020241205142243.png)
 ![Pasted image 20241205142502.png](/img/user/Images/Pasted%20image%2020241205142502.png)
 ![Pasted image 20241205142723.png](/img/user/Images/Pasted%20image%2020241205142723.png)
+Additional supporting project detail template at [[Chat Bots/Project Plan Template Details\|Project Plan Template Details]]
 #### Questions and Comments
 1. Be very careful when dealing with other peoples money
 2. Kate and Al: setup outbound web query with inspection for sensitive information. Did follow up Abacus chat on the options.
