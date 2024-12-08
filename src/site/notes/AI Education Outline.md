@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-education-outline/","dgPassFrontmatter":true,"created":"2024-12-08T12:39:15.852-07:00","updated":"2024-12-08T12:55:46.002-07:00"}
+{"dg-publish":true,"permalink":"/ai-education-outline/","dgPassFrontmatter":true,"created":"2024-12-08T12:39:15.852-07:00","updated":"2024-12-08T16:05:15.006-07:00"}
 ---
 
 ## AI Education
@@ -9,6 +9,8 @@
 difference between generative and summary AI, and what is the difference between internal
 open source AI versus proprietary AI?
 3. Embed empowerment into every lesson.
+<iframe src="https://files.strongprompt.ai/Lolo/TestAIEducationVideo.mp4" width="100%" height="460px" frameborder="0"></iframe>
+
 #### AI Basics
 * AI Explosion: you might think AI has suddenly burst on the scene but it has been
 developing slowing for a long time in the background. Remember the day you first heard
