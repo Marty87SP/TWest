@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/chat-bots/project-plan-template-details/","dgPassFrontmatter":true,"created":"2024-11-19T16:10:57.352-07:00","updated":"2024-11-19T20:09:56.586-07:00"}
+{"dg-publish":true,"permalink":"/chat-bots/project-plan-template-details/","dgPassFrontmatter":true,"created":"2024-11-19T16:10:57.352-07:00","updated":"2024-12-09T12:45:21.360-07:00"}
 ---
 
 ## Internal Policy Bot - 45 Day Timeline
 
+*(see 2nd, lower track)*
+![Pasted image 20241205142723.png](/img/user/Images/Pasted%20image%2020241205142723.png)
 ## Beta Release (15 Days)
 ### Scope
 - Single department pilot (ex. HR)
